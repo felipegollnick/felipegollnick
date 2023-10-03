@@ -12,7 +12,7 @@ Here are a few examples of my work:
 
 In my past experiences I've worked with:
 
-- SQL: queries and stored procedures (SQL Server, MySQL, DBeaver);
+- SQL: queries and stored procedures (SQL Server, MySQL, Oracle, Postgre);
 
 - Data Visualization tools: Power BI and Qlik;
 
